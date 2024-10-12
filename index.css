@@ -356,7 +356,7 @@ button.normal{
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-  background-image: url(https://i.postimg.cc/vZ6YLxDG/b17.jpg);
+  
   min-width: 580px;
   height: 40vh;
   background-position: center;
@@ -365,7 +365,6 @@ button.normal{
 }
 
 #sm-banner .banner-box2{
-  background-image: url(https://i.postimg.cc/gJ7FHxHv/b10.jpg)
 }
 
 #sm-banner{
@@ -426,7 +425,7 @@ button.white{
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-  background-image: url(https://i.postimg.cc/BQQHKtwh/b7.jpg);
+
   min-width: 30%;
   height: 30vh;
   background-position: center;
@@ -448,11 +447,10 @@ button.white{
 }
 
 #banner3 .banner-img2{
-  background-image: url(https://i.postimg.cc/SxP6qqdg/b4.jpg)
+  
 }
 
 #banner3 .banner-img3{
-   background-image: url(https://i.postimg.cc/m2th49nG/b18.jpg)
 }
 
 #newsletter  {
@@ -460,7 +458,7 @@ button.white{
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url(https://i.postimg.cc/R0Bs4qqt/b14.png);
+
     background-repeat: no-repeat;
     background-position: 20% 30%;
   background-color: #041e42;
